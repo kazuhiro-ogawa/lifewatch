@@ -1,4 +1,5 @@
 void setup() {
+  #define REDLED 7
   // put your setup code here, to run once:
 
 }
