@@ -1,3 +1,4 @@
+//terukina
 #define REDLED 7
 #define BLUELED 8
   #define START_BTN 5
