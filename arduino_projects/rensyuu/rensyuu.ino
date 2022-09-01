@@ -1,5 +1,9 @@
+#define REDLED 7
+#define BLUELED 8
+
 void setup() {
-  #define REDLED 7
+  
+  
   // put your setup code here, to run once:
   Serial.begin(9600);
 }
